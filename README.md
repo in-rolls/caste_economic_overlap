@@ -81,4 +81,14 @@ names, visible material circumstances and context.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [in-rolls/land](https://github.com/in-rolls/land) — Distribution of Land in Bihar
+- [in-rolls/caste_social_signals](https://github.com/in-rolls/caste_social_signals) — Research synthesis on social information in names, material cues, and ordinary encounters
+- [in-rolls/caste_marriage_matching](https://github.com/in-rolls/caste_marriage_matching) — Replication and analysis of caste preferences, shortlisting and marriage matching in India
+- [in-rolls/caste_water_markets](https://github.com/in-rolls/caste_water_markets) — Replication and analysis of caste, groundwater trade and crop sales in rural India
+- [in-rolls/caste_marriage_ads](https://github.com/in-rolls/caste_marriage_ads) — Replication and analysis of caste, income and responses to matrimonial advertisements in India
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
