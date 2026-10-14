@@ -78,3 +78,7 @@ its meaning differs between NSS and IHDS. Household shares are not person shares
 The separate [Passing Glance synthesis](../caste_social_signals/README.md) connects
 these economic distributions to the information a stranger can obtain from
 names, visible material circumstances and context.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
