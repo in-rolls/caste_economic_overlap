@@ -90,7 +90,7 @@ needed before interpreting a small gain as evidence about jati itself.
 
 ## A sorted jati version
 
-Publish **two different orders**, labelled clearly:
+Publish **two different orders**, labeled clearly:
 
 - A contemporary economic order, learned in training PSUs and evaluated in held-out
   PSUs. Show the matrix of pairwise wins, not just one rank. The current figures

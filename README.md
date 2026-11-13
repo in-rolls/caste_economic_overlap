@@ -49,7 +49,7 @@ note is the source of result tables; figures and prose share computed outputs.
   person per month. Every threshold CSV distinguishes `<` from `<=`.
 - Full weighted ECDFs, including zeros; plot limits zoom without dropping tails.
 - Shares below common pooled quartiles, with the inverse-ECDF convention.
-- Pairwise less/equal/greater probabilities and explicitly labelled half ties.
+- Pairwise less/equal/greater probabilities and explicitly labeled half ties.
 - Shared mass in fixed bins, with the bin edges recorded. This overlap statistic
   depends on those edges and is not the percentage of identical households.
 - Threshold differences and approximate PSU-bootstrap intervals; see the design

@@ -56,7 +56,7 @@ sample; the CSVs retain the full curves. No winsorization is used.
 ## Denominators and missingness
 
 Household weights are primary. A future person-weighted estimate should use
-household weight multiplied by household size and be labelled separately. Never
+household weight multiplied by household size and be labeled separately. Never
 call a household share a share of people. Do not pool administrative accounts,
 cardholders, survey households and village means into one distribution.
 
@@ -93,7 +93,7 @@ and local lint/tests. Every curve retains its full denominator.
 ## Extensions that could change the interpretation
 
 - **Geography:** show within-state and rural/urban comparisons before presenting
-  nationally pooled overlap as overlap among comparable neighbours. Then
+  nationally pooled overlap as overlap among comparable neighbors. Then
   standardize each group's CDF to common geographic weights on common support;
   report dropped places and their population weights. State or district fixed
   effects alone do not produce a distributional comparison.
